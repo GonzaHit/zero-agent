@@ -6,8 +6,6 @@ memory/tools-audited.md
 # === Archivos temporales de operaciones ===
 /tmp/zero-tools/
 
-# === Notas personales ===
-prompt tokio
 
 # === OS / Editor ===
 .DS_Store
