@@ -1,0 +1,13 @@
+# Operaciones Completadas — ZERO
+> Log persistente de objetivos alcanzados (flags, shells, escalaciones)
+
+---
+
+<!-- Formato de entrada:
+## [FECHA] - [OBJETIVO]
+- **Target:** IP/hostname/CTF
+- **Resultado:** flag/root/shell obtenida
+- **Vector:** técnica principal usada
+- **Ruta completa:** paso a paso resumido
+- **Tags:** #flag #root #shell #ctf #audit
+-->

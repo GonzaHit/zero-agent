@@ -1,0 +1,14 @@
+# Herramientas Auditadas — ZERO
+> Herramientas descargadas externamente que pasaron auditoría de seguridad
+
+---
+
+<!-- Formato de entrada:
+## [FECHA] - [NOMBRE HERRAMIENTA]
+- **Origen:** URL del repositorio
+- **Versión/Commit:** hash o tag
+- **Auditoría:** qué se revisó (reverse shells, exfil, ofuscación, persistencia)
+- **Resultado:** LIMPIO / SOSPECHOSO (detalle)
+- **Ubicación local:** path donde se guardó
+- **Tags:** #tool #audit #python #exploit
+-->
